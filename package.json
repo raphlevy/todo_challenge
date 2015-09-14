@@ -1,0 +1,25 @@
+{
+  "name": "todo_challenge",
+  "version": "1.0.0",
+  "description": "* Deadline: submit completed pull request by 9am on Monday * You may use whatever level of JavaScript you feel comfortable with - pure JS, jQuery, Angular, or whatever weird and wonderful framework you want to try. Extra points for DogeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphlevy/todo_challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphlevy/todo_challenge/issues"
+  },
+  "homepage": "https://github.com/raphlevy/todo_challenge#readme",
+  "devDependencies": {
+    "bower": "^1.5.2",
+    "grunt": "^0.4.5",
+    "grunt-contrib-jasmine": "^0.9.1",
+    "grunt-contrib-jshint": "^0.11.3"
+  }
+}
